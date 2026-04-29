@@ -6,7 +6,7 @@ import Footer from "./Components/footer";
 
 import Home from "./Pages/Home";
 import SignIn from "./Auth/SignIn";
-import Signup from "./Pages/Signup";
+import Signup from "./Pages/SignUp";
 import Dashboard from "./Pages/Dashboard";
 
 import ProtectedRoute from "./Components/ProtectedRoute";
